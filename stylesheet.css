@@ -1,0 +1,57 @@
+html * {
+    margin: 5px;
+    padding: 0;
+}
+
+
+h1 {
+    background-image: url("C:/Users/clean/Desktop/softwear development/software development/Code Academy/DevProject/Dasmoto's Arts & Crafts/resources/CodeA project 1 Image 1.jpeg");
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    
+  }
+ 
+  
+   h2 {
+      font-family: Helvetica;
+      font-size: 32px;
+      font-weight: bold;
+      color: white;
+      margin-top: 20px;
+      margin-bottom: 20px;
+  }
+
+  #brushes {
+      background-color: mediumspringgreen;
+  }
+
+  #frames {
+      background-color: lightcoral;
+  }
+
+  #paint {
+      background-color: skyblue;
+  }
+
+  span {
+     font-family: Helvetica;
+     font-weight: bold;
+     color: blue; 
+  }
+
+  h3 {
+      margin-top: 10px;
+      margin-bottom: 20px;
+      font-family: Helvetica;
+      font-size: 20px;
+  }
+
+  p {
+      font-family: Helvetica;
+      font-size:16px;
+  }
